@@ -741,11 +741,11 @@
                 "thumb": "@PROJECT_PATH@/assets/images/level-1-brand-switch-348x261-348x261.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Wireless LAN Controller",
                 "active": false
               },
               {
-                "tags": "UPS",
+                "tags": "Equip",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -753,7 +753,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/eqiup-patch-panel-348x261-348x261.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Cat6 Shielded Patch Panel",
                 "active": false
               },
               {
@@ -765,11 +765,11 @@
                 "thumb": "@PROJECT_PATH@/assets/images/conceptronic-speaker-490x368-490x368.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Wireless Bluetooth Speaker",
                 "active": false
               },
               {
-                "tags": "Surveillance",
+                "tags": "LevelOne",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -777,11 +777,11 @@
                 "thumb": "@PROJECT_PATH@/assets/images/level-1-ip-surveillance-348x261-348x261.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "3-Megapixel IP Camera",
                 "active": false
               },
               {
-                "tags": "Wireless AP",
+                "tags": "LevelOne",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -789,11 +789,11 @@
                 "thumb": "@PROJECT_PATH@/assets/images/l1-wall-mount-ap-348x261-348x261.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Managed in-wall AP",
                 "active": false
               },
               {
-                "tags": "Desk mount socket",
+                "tags": "LevelOne",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -801,11 +801,11 @@
                 "thumb": "@PROJECT_PATH@/assets/images/equip-desk-mount-socket-348x251-348x251.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Desk Mount Socket",
                 "active": false
               },
               {
-                "tags": "Responsive",
+                "tags": "Conceptronic",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -813,11 +813,11 @@
                 "thumb": "@PROJECT_PATH@/assets/images/conceptronic-ups-490x368-490x368.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Office UPS",
                 "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "Equip",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -825,7 +825,55 @@
                 "thumb": "@PROJECT_PATH@/assets/images/eqiup-monitor-bracket-348x261-348x261.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Dual Monitor Desk Mount Bracket",
+                "active": false
+              },
+              {
+                "tags": "Equip",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/equip-modular-outlet-348x261.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/equip-modular-outlet-348x261-348x261.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Cat6 German Modular outlet",
+                "active": false
+              },
+              {
+                "tags": "Equip",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/equip-st-sc-fiber-optic-adapter-cable-348x239.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/equip-st-sc-fiber-optic-adapter-cable-348x239-348x239.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Fiber Optic cable",
+                "active": false
+              },
+              {
+                "tags": "Conceptronic",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/conceptronic-600va-300w-office-ups-490x368.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/conceptronic-600va-300w-office-ups-490x368-490x368.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "600VA 300W Office UPS",
+                "active": false
+              },
+              {
+                "tags": "Conceptronic",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/conceptronic-hard-disk-box-mini-490x368.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/conceptronic-hard-disk-box-mini-490x368-490x368.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "<br>2.5\" Hard Disk Box Mini",
                 "active": true
               }
             ]
